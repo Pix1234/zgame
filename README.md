@@ -1,2 +1,0 @@
-# zgame
-Zombie Survival Game 

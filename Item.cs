@@ -22,7 +22,7 @@ public class Item
 		Food,
 		Drink,
 		CraftingMaterial,
-		Placable
+		Placeable
 	}
 
 	public enum ItemSpawnPoint

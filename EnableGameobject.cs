@@ -8,11 +8,5 @@ public class EnableGameobject : MonoBehaviour
 	void EnableObject()
 	{
 		obj.SetActive (true);
-	If (obj.SetActive (true)
-obj.SetActive (false)
-obj.SetActive == false
-Else
-End
-
-}
+	}
 }

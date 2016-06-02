@@ -8,5 +8,10 @@ public class DisableGameobject : MonoBehaviour
 	void DisableObject()
 	{
 		obj.SetActive (false);
+If (obj.SetActive == true) /* fail-safe */
+{
+obj.SetActive (false)
+}
+}
 	}
 }

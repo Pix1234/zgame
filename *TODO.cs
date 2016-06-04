@@ -1,4 +1,4 @@
 /* Add notifications system -Ricky
-Fix/finish versioning system (convert VB to c#) -Zppix
+Finish versioning system (convert VB to c#-uneeded) -Zppix
 
 */
